@@ -1,2 +1,2 @@
 # application
-Our awesome application
+My application
